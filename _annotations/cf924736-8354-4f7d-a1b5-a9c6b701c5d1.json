@@ -1,0 +1,34 @@
+---
+canvas: "https://dnoneill.github.io/wax-iiif/img/derivatives/iiif/canvas/fullBayeux.json"
+order: 17
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Action to action ",
+            "purpose": "commenting",
+            "creator": {
+                "id": "sbennettlib",
+                "name": "Shaun Bennett"
+            },
+            "created": "2021-10-20T20:13:48.890Z",
+            "modified": "2021-10-20T20:13:55.713Z"
+        }
+    ],
+    "target": {
+        "source": "https://dnoneill.github.io/wax-iiif/img/derivatives/iiif/canvas/fullBayeux.json",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:54890.26953125,454.76495361328125,426.5546875,659.3676147460938"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dnoneill.github.io/wax-iiif/img/derivatives/iiif/fullBayeux/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "cf924736-8354-4f7d-a1b5-a9c6b701c5d1.json"
+}
