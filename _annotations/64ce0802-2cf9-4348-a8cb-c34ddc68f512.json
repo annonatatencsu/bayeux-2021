@@ -22,7 +22,7 @@ order: 15
         "selector": {
             "type": "FragmentSelector",
             "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=pixel:50318.65625,-5.978361129760742,630.0625,247.46638298034668"
+            "value": "xywh=pixel:50320.28515625,313.12302589416504,630.0625,247.46638298034668"
         },
         "dcterms:isPartOf": {
             "id": "https://dnoneill.github.io/wax-iiif/img/derivatives/iiif/fullBayeux/manifest.json",
